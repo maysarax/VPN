@@ -42,6 +42,8 @@ Reference
 
 https://en.wikipedia.org/wiki/Virtual_private_network
 
+https://searchnetworking.techtarget.com/definition/virtual-private-network
+
 https://opensource.com/article/18/6/vpn-alternatives
 
 https://www.geckoandfly.com/5710/free-vpn-for-windows-mac-os-x-linux-iphone-ubuntu/
